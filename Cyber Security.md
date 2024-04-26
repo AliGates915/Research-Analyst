@@ -79,3 +79,11 @@ The cybersecurity landscape is constantly evolving, so a willingness to stay upd
 Adaptability to rapidly changing circumstances and the ability to pivot strategies as needed in response to emerging threats or organizational changes.
 
 
+
+## Certifications:
+Cybersecurity Analysts: Common certifications for analysts include Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH), CompTIA Security+, and GIAC Certified Incident Handler (GCIH).
+Cybersecurity Engineers: Common certifications for engineers include Certified Information Systems Security Professional (CISSP), Certified Information Security Manager (CISM), Certified Cloud Security Professional (CCSP), Certified Information Systems Auditor (CISA), and Offensive Security Certified Professional (OSCP).
+
+
+
+#
