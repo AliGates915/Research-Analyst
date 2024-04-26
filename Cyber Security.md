@@ -20,5 +20,29 @@ to exchange ideas, services & friendship."   ~~ Public Safety Board of Canada
 "CyberSecurity is the Organization and collection of resources, processes, and structures used to protect cybersecurity and cyberspace-enabled systems."
 
 
+### "Bug bounty hunting" in the cybersecurity field involves finding and reporting vulnerabilities in software, websites, or applications in exchange for monetary rewards, recognition, or other incentives offered by organizations running bug bounty programs. Here's what you typically need to engage in bug bounty hunting effectively:
 
+Technical Skills:
+Proficiency in various programming languages such as Python, JavaScript, PHP, or others commonly used in web development.
+Understanding of common web technologies and protocols (e.g., HTTP, HTML, CSS, JavaScript) and how they can be exploited.
+Knowledge of security vulnerabilities and common attack vectors, such as XSS (Cross-Site Scripting), SQL injection, CSRF (Cross-Site Request Forgery), etc.
+Familiarity with security testing tools such as Burp Suite, OWASP ZAP, Nmap, Metasploit, etc.
+Ethical Hacking Skills:
+Ability to think like an attacker and identify potential security weaknesses in web applications, APIs, or network infrastructure.
+Experience with penetration testing methodologies and techniques to systematically identify and exploit vulnerabilities.
+Understanding of reconnaissance techniques to gather information about targets and potential attack surfaces.
+Bug Bounty Platforms and Programs:
+Familiarity with bug bounty platforms like HackerOne, Bugcrowd, Synack, or others where organizations host their bug bounty programs.
+Regularly monitor and participate in bug bounty programs offered by companies across various industries.
+Report Writing and Communication Skills:
+Ability to write clear, detailed, and reproducible vulnerability reports that provide sufficient information for developers to understand and fix the issue.
+Effective communication skills to interact with program owners and other stakeholders professionally and collaboratively.
+Persistence and Patience:
+Bug bounty hunting requires patience and persistence, as finding valuable vulnerabilities can take time and effort.
+Willingness to continuously learn and improve your skills based on feedback and experiences from previous bug bounty submissions.
+Legal and Ethical Understanding:
+Knowledge of legal and ethical considerations surrounding bug bounty hunting, including adherence to program rules, responsible disclosure practices, and respecting the privacy and security of targets.
+Awareness of relevant laws and regulations governing cybersecurity activities in your jurisdiction.
+Community Engagement:
+Active participation in the bug bounty community, forums, and events to share knowledge, learn from others, and stay updated with the latest trends and techniques in vulnerability research.
    
